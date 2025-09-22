@@ -1,6 +1,10 @@
 namaste 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello Rohith
 learning gittttttttttttttttttttttttttttttttttttttttttttt
 =======
 >>>>>>> parent of bd8fd72 (by charan)
+=======
+hello rohith
+>>>>>>> parent of 6fc57bb (second commit by rohith)
