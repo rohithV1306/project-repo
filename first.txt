@@ -1,3 +1,6 @@
 namaste 
+<<<<<<< HEAD
 hello Rohith
 learning gittttttttttttttttttttttttttttttttttttttttttttt
+=======
+>>>>>>> parent of bd8fd72 (by charan)
